@@ -3,6 +3,8 @@
 Simple Project that use api.myip.ms to collect info about your url/ip   
 Thanks to [my dude (mehran)](mailto:mehran.abi80@gmail.com)
 
+Please Set your api information on App.vue then continue
+
 ## Project setup
 ```
 npm install
